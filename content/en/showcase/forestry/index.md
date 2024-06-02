@@ -45,4 +45,4 @@ Lastly, we want to take the opportunity to give some love to other amazing tools
 * We might be a little biased on this one - We think [**Forestry.io**](https://forestry.io/) is a great way to add a content management system with a clean UI on top of your site without interrupting your experience as a developer.
 * For hosting purposes we use the almighty [**AWS**](https://aws.amazon.com/).
 * [**Formspree.io**](https://formspree.io/) is managing our support and enterprise requests.
-* We also use browser cookies and JS to customize our user’s experience and give it a more dynamic feel.
+* We also use browser cookies and JS to customize our user’s experience and give it a more dynamic feel. ;-)
